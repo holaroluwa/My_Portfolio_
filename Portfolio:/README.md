@@ -20,5 +20,5 @@ Welcome to my portfolio! Here you will find a collection of my projects in Cloud
 - **Languages:** Python, Bash, SQL
 
 ## 📫 Contact
-- **LinkedIn:** [Your Profile Link]
-- **Email:** [Your Email Address]
+- **LinkedIn:** www.linkedin.com/in/olaoluwa-odusanya
+- **Email:** olaoluwa.odusanya.oo@gmail.com
