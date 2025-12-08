@@ -3,7 +3,7 @@
 Welcome to my portfolio! Here you will find a collection of my projects in Cloud Computing, Sales Engineering, and other technical domains.
 
 ## 🚀 About Me
-** I am a passionate Cloud Engineer and Sales Engineer with experience in AWS, Azure, and Google Cloud...*]
+**I am a passionate Cloud Engineer and Sales Engineer with experience in AWS, Azure, and Google Cloud...*]
 
 ## 📂 Projects Overview
 
