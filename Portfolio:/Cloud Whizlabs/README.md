@@ -12,7 +12,7 @@ This section documents my hands-on experience and training with **Whizlabs** clo
 ### [AWS / Azure / GCP] Labs
 | Lab Name | Description | Key Skills Learned | Date |
 |----------|-------------|--------------------|------|
-| **Launch EC2 Instance** | Launched and configured a Linux EC2 instance. | AWS EC2, SSH, Security Groups | [Date] |
+| [**Launch EC2 Instance**](./Launch_EC2_Instance/README.md) | Launched and configured a Linux EC2 instance. | AWS EC2, SSH, Security Groups | [Date] |
 | **S3 Static Website** | Hosted a static website on Amazon S3. | S3 Buckets, Permissions, Static Hosting | [Date] |
 | **[Lab Name]** | [Brief description] | [Skills] | [Date] |
 
