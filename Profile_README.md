@@ -38,7 +38,7 @@
 | **Cloud Whizlabs** | **Sales Engineering** | **Tech Nest** |
 |:---:|:---:|:---:|
 | ☁️ **Cloud Projects** | 🤝 **Presales & Demos** | 🦅 **Experimental Labs** |
-| [View Projects](https://github.com/holaroluwa/My_Portfolio_/tree/main/Portfolio:/Cloud%20Whizlabs) | [View Projects](https://github.com/holaroluwa/My_Portfolio_/tree/main/Portfolio:/Sales%20Engineering) | [View Projects](https://github.com/holaroluwa/My_Portfolio_/tree/main/Portfolio:/Linas's%20Tech%20Nest%20Projects) |
+| [View Projects](https://github.com/holaroluwa/My_Portfolio_/tree/main/Portfolio/Cloud%20Whizlabs) | [View Projects](https://github.com/holaroluwa/My_Portfolio_/tree/main/Portfolio/Sales%20Engineering) | [View Projects](https://github.com/holaroluwa/My_Portfolio_/tree/main/Portfolio/Linas's%20Tech%20Nest%20Projects) |
 
 <br>
 
